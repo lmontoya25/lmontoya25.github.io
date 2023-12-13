@@ -47,7 +47,7 @@ createPlatform(300,700,200,20)
 createPlatform(500,600,200,10)
 createPlatform(700,500,200,15)
 createPlatform(900,400,200,10)
-createPlatform(1000,300,200,10)
+createPlatform(1000,300,200,12)
 
 
 
